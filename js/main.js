@@ -102,7 +102,7 @@ const checkForSpam = function (message) {
     }
 }
 
-console.log(checkForSpam("SALE! We're selling MMM coupons for just $9999.99! It's TRUE! Doesn't SPAM!"));
+console.log(checkForSpam("SALE! We're selling MMM coupons for just $9999.99! It's TRUE! Isn't SPAM!"));
 
 
 
